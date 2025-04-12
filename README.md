@@ -43,10 +43,20 @@ The Power BI report contains multiple views and KPIs that help interpret the sto
 ### 🔹 Sales by Season
 Visualizing total sales across Spring, Summer, Autumn, and Winter.
 
-![Sales in Spring](docs/dashboard_imgs/BestSellingSpring.png)
-![Sales in Summer](docs/dashboard_imgs/BestSellingSummer.png)
-![Sales in Autumn](docs/dashboard_imgs/BestSellingAutumn.png)
-![Sales in Winter](docs/dashboard_imgs/BestSellingWinter.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div style="flex: 0 0 48%; margin-bottom: 10px;">
+    <img src="docs/dashboard_imgs/BestSellingSpring.png" alt="Sales in Spring" style="width: 100%;">
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 10px;">
+    <img src="docs/dashboard_imgs/BestSellingSummer.png" alt="Sales in Summer" style="width: 100%;">
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 10px;">
+    <img src="docs/dashboard_imgs/BestSellingAutumn.png" alt="Sales in Autumn" style="width: 100%;">
+  </div>
+  <div style="flex: 0 0 48%; margin-bottom: 10px;">
+    <img src="docs/dashboard_imgs/BestSellingWinter.png" alt="Sales in Winter" style="width: 100%;">
+  </div>
+</div>
 
 ---
 
