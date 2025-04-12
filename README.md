@@ -45,16 +45,16 @@ Visualizing total sales across Spring, Summer, Autumn, and Winter.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <img src="docs/dashboard_imgs/BestSellingSpring.png" alt="Sales in Spring" style="width: 100%;">
+    <img src="docs/dashboard_imgs/BestSellingSpring.png" alt="Sales in Spring" style="width: 50%;">
   </div>
   <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <img src="docs/dashboard_imgs/BestSellingSummer.png" alt="Sales in Summer" style="width: 100%;">
+    <img src="docs/dashboard_imgs/BestSellingSummer.png" alt="Sales in Summer" style="width: 50%;">
   </div>
   <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <img src="docs/dashboard_imgs/BestSellingAutumn.png" alt="Sales in Autumn" style="width: 100%;">
+    <img src="docs/dashboard_imgs/BestSellingAutumn.png" alt="Sales in Autumn" style="width: 50%;">
   </div>
   <div style="flex: 0 0 48%; margin-bottom: 10px;">
-    <img src="docs/dashboard_imgs/BestSellingWinter.png" alt="Sales in Winter" style="width: 100%;">
+    <img src="docs/dashboard_imgs/BestSellingWinter.png" alt="Sales in Winter" style="width: 50%;">
   </div>
 </div>
 
